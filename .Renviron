@@ -1,0 +1,4 @@
+SB_HOST=aws-0-us-east-1.pooler.supabase.com
+SB_PORT=5432
+SB_USER=postgres.nopoceouzusgtsjnqchm
+SB_PASS=TPMETODOLOGIA
